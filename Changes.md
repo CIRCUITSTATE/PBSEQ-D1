@@ -1,6 +1,11 @@
 
 
 #
+### **+05:30 04:22:24 PM 12-05-2024, Sunday**
+
+  * Added gitignore.
+
+#
 ### **+05:30 04:21:18 PM 12-05-2024, Sunday**
 
   * Updated Readme.
