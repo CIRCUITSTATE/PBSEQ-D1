@@ -1,0 +1,25 @@
+### Footprint positions - created on 2024-05-12T11:05:30+0530 ###
+### Printed by KiCad version 8.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                               PosX       PosY       Rot  Side
+C1        0.1uF      C_0603_1608Metric                   7.2550     6.2450   90.0000  top
+C2        10uF       C_0603_1608Metric                   2.3050     9.2350    0.0000  top
+C3        1uF        C_0603_1608Metric                   1.5250     6.2450  -90.0000  top
+D1        1N4148     D_SOD-323_HandSoldering             9.5750    11.9800   90.0000  top
+D2        RED        LED_0603_1608Metric                14.9450    11.6850    0.0000  top
+D3        YELLOW     LED_0603_1608Metric                14.9450     7.2950    0.0000  top
+J1        POWER_IN   PinHeader_1x02_P2.54mm_Vertical    14.9250    17.0250    0.0000  top
+J2        POWER_OUT  PinHeader_1x02_P2.54mm_Vertical    14.9250     4.5250    0.0000  top
+J3        BUTTON     PinHeader_1x02_P2.54mm_Vertical     3.0225    16.9250   90.0000  top
+Q1        AO3401A    SOT-23                             10.3650     6.5940    0.0000  top
+Q2        AO3400A    SOT-23                              6.4650    10.2630    0.0000  top
+R1        10K        R_0603_1608Metric                   3.4150     6.2450  -90.0000  top
+R2        100K       R_0603_1608Metric                   5.2950     6.2450   90.0000  top
+R3        100K       R_0603_1608Metric                   2.3150    11.2450    0.0000  top
+R4        300K       R_0603_1608Metric                   5.8150    13.2750    0.0000  top
+R5        1M         R_0603_1608Metric                   2.3150    13.2750  180.0000  top
+R6        1K         R_0603_1608Metric                  11.6850    12.5150   90.0000  top
+R7        200R       R_0603_1608Metric                  12.4350     9.4450  180.0000  top
+SW1       BUTTON     CK_SW_SPST_UK-B0273-SP25Y           4.5300     2.2600  180.0000  top
+## End
