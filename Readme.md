@@ -11,7 +11,7 @@ A tutorial of designing and testing the circuit will soon be available at [CIRCU
 
 - **Parent Project:** PBSEQ
 - **Variant Name:** PBSEQ-D1
-- **Latest Revision:** `R0.1`
+- **Latest Revision:** `R0.2`
 - **EDA Tools:** KiCad V8
 - **Layer Count:** 2
 - **Board Thickness:** 1.6 mm
